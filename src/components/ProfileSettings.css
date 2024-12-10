@@ -1,0 +1,24 @@
+.card {
+    border-radius: 10px;
+}
+
+.card-title {
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.form-control {
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.btn {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.text-danger {
+    font-size: 0.9rem;
+    font-weight: 500;
+}

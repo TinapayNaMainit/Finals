@@ -1,0 +1,48 @@
+.home-container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+h2 {
+    color: #1d3557;
+    font-weight: bold;
+}
+
+.user-info p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.error-message {
+    color: #e63946;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.loading-message {
+    font-size: 1.2rem;
+    text-align: center;
+    color: #6c757d;
+}
+
+.btn-primary {
+    background-color: #457b9d;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #1d3557;
+}
